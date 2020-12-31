@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BooksTest</string>
+
+    <string name="label_not_found">Search "%s"\nNot found</string>
+</resources>
